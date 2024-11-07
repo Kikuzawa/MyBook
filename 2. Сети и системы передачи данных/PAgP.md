@@ -1,0 +1,1 @@
+PAgP )Port Aggregation Protocol)- проприетарный протокол Cisco.

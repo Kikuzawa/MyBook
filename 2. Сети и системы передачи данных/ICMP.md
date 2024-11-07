@@ -1,0 +1,1 @@
+**ICMP (Internet Control Message Protocol)** - используется для отправки сообщений об ошибках и запросов.

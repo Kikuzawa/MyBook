@@ -1,0 +1,1 @@
+**L2TP (Layer 2 Tunneling Protocol)** - комбинированный протокол, который включает в себя элементы из двух других протоколов: L2F (Layer 2 Forwarding) и PPTP (Point-to-Point Tunneling Protocol).

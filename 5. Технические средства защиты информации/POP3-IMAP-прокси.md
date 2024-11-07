@@ -1,0 +1,1 @@
+**POP3/IMAP-прокси** - Эти прокси-серверы обрабатывают POP3 (Post Office Protocol) и IMAP (Internet Message Access Protocol) запросы, используемые для получения электронной почты с почтовых серверов.

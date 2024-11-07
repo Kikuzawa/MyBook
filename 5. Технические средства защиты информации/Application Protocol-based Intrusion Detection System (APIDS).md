@@ -1,0 +1,1 @@
+**Application Protocol-based Intrusion Detection System (APIDS)** - Система обеспечивает контроль пакетов, которые передаются по протоколу прикладного уровня. Такие IDS работают вместе с WAF. 

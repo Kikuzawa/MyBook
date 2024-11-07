@@ -1,0 +1,1 @@
+**SACL** (system access control list) – список управления доступом к Microsoft windows используемый для аудита доступа.

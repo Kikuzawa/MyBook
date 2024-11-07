@@ -1,0 +1,7 @@
+- [[PPTP]]
+- [[IPSec]]
+- [[L2TP-IPsec (Layer 2 Tunneling Protocol with IPsec)]]
+- [[IKEv2 (Internet Key Exchange Version 2)]]
+- [[OpenVPN]]
+- [[SSTP (Secure Socket Tunneling Protocol)]]
+- [[WireGuard]]
