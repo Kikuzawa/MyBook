@@ -31,4 +31,7 @@ Python поддерживает несколько парадигм програ
 [[Numpy]]
 [[Pandas]]
 [[MATPLOTLIB]]
+[[Pillow]]
+[[OpenCV]]
+
 
