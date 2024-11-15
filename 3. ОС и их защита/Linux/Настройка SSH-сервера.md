@@ -1,3 +1,5 @@
+[[SSH]]
+
 # Ubuntu
 . Установка SSH
 1. sudo apt-get install ssh
