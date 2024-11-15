@@ -1,0 +1,1 @@
+Natural Language Toolkit – ведущая платформа для создания NLP-программ на Python
